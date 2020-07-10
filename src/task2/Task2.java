@@ -7,7 +7,7 @@ package task2;
 
 /**
  *
- * @author QiJang
+ * @author Dheeno
  */
 public class Task2 {
 
