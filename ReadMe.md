@@ -17,5 +17,7 @@ maths is 60 marks
 english is 70 marks
 you can print his name together too. 
 
-See [KUBERNETES.md](https://github.com/joemccann/dillinger/blob/master/KUBERNETES.md)
-
+### Task 3
+- Based on task 2, calculate average marks
+- Average = sum/number of items 
+- print average value
