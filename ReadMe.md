@@ -21,3 +21,9 @@ you can print his name together too.
 - Based on task 2, calculate average marks
 - Average = sum/number of items 
 - print average value
+
+### Task 4
+- Create a new project called UserInput
+- Watch this video and try it out.[Tutorial on User Input 1](https://www.youtube.com/watch?v=5DdacOkrTgo)
+- Watch this video and try it out.[Storing input in a variable Video](https://www.youtube.com/watch?v=jK6NX9iyi-8)
+- Modify the code to get user's name and print the user name.
